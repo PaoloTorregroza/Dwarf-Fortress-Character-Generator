@@ -1,4 +1,8 @@
-# df-char-generator
+# Dwarf fortress character generator for the arena mode, whit love for the Toen community
+
+
+
+## df-char-generator (Dev)
 
 ## Project setup
 ```
