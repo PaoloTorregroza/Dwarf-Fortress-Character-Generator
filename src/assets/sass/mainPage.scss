@@ -1,0 +1,60 @@
+.hide {
+    display: none;
+  }
+
+  .home {
+    width: 100%;
+  }
+  .home-tittle {
+    margin-top: 20px;
+    height: 100%;
+  }
+  .home-subtitle {
+    margin-top: 60px;
+    text-align: center;
+    color: #E5E9F0;
+  }
+  h4 {
+    font-size: 11px;
+    text-align: center;
+    margin-top: -15px;
+    color: #E5E9F0;
+  }
+
+  .startButton {
+    margin-top: 80px;
+    text-align: center;
+  }
+
+  .startButton button {
+    height: 100px;
+    width: 300px;
+    font-family: 'Cinzel', serif;
+    font-size: 25px;
+    color: #BF616A;
+    background-color: #E5E9F0;
+    border: 1px solid #3B4252;
+    border-radius: 50px;
+  }
+
+  .startButton :hover {
+    background-color: #3B4252;
+    color: #EBCB8B;
+  }
+
+  .gallery {
+    background-color: #3B4252;
+    margin: 0 20px 20px 20px;
+    padding: 0px 10px 5px 35px;
+  }
+
+  h2 {
+    text-align: center;
+    margin-top: 50px;
+    color: #EBCB8B;
+  }
+
+  .images img {
+    margin: 3px;
+    width: 24%;
+  }
