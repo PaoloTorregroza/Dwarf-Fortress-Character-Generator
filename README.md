@@ -1,4 +1,4 @@
-# Dwarf fortress character generator for the arena mode, whit love for the Toen community
+# Dwarf fortress character generator for the arena mode, whit love for the community of Toen
 
 
 
