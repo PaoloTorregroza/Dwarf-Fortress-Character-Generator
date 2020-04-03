@@ -1,0 +1,21 @@
+Race Troll
+
+Habilidades(115 pts):
+
+Adequate Fighter     9 pts
+Novice Biter         4 pts
+Novice Kicker        4 pts
+Skilled Swordsman   50 pts
+Adequate Armor User  6 pts
+Competent Dodger    30 pts
+Novice Observer      3 pts
+Adequate Discipline  9 pts
+
+Equipamiento(88 pts):
+
+Copper Helm                 15      
+Copper Low Boots            10      
+Leather Armor               12      
+Leather Leggings            7       
+Leather Gloves              4      
+Iron Short Sword            40      
